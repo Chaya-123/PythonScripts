@@ -1,5 +1,5 @@
 
-s=(input(print("input the file name:")))
+s=(input("input the file name:"))
 d=s.split(".")
 
 for x in d:
